@@ -25,6 +25,7 @@ eso que lo vimos optimo ya que nuestro programa proporciona 2 servicion usando
 una base de datos.
 
 <td><img src="https://refactoring.guru/images/patterns/diagrams/factory-method/structure.png"</th>
+"sacada de : https://refactoring.guru/design-patterns/factory-method"
 
 #API
 
