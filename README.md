@@ -19,7 +19,7 @@ copiamos el contenido en el contenedor , instalamos los paquetes necesarios y
 definimos la variable de entorno para iniciar el contenedor CMD ["python", "app.py"]
 
 # Factory
-Este patron de diseño creacion nos brinda la creacion de objetos en una SUPERCLASE 
+Este patron de diseño creacional nos brinda la creacion de objetos en una SUPERCLASE 
 que nos ayuda con las SUBCLASES alteren el tipo de objetos que retornaran y es por
 eso que lo vimos optimo ya que nuestro programa proporciona 2 servicion usando
 una base de datos.
