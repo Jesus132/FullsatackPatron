@@ -18,7 +18,7 @@ número de veces tanto como datos existan en la base.
 copiamos el contenido en el contenedor , instalamos los paquetes necesarios y
 definimos la variable de entorno para iniciar el contenedor CMD ["python", "app.py"]
 
-#Factory
+# Factory
 Este patron de diseño creacion nos brinda la creacion de objetos en una SUPERCLASE 
 que nos ayuda con las SUBCLASES alteren el tipo de objetos que retornaran y es por
 eso que lo vimos optimo ya que nuestro programa proporciona 2 servicion usando
@@ -27,10 +27,10 @@ una base de datos.
 <td><img src="https://refactoring.guru/images/patterns/diagrams/factory-method/structure.png"</th>
 "sacada de : https://refactoring.guru/design-patterns/factory-method"
 
-#API
+# API
 
 <td><img src="https://github.com/Jesus132/FullsatackPatron/blob/master/api.jpg"</th>
 
-#Tabla
+# Tabla
 
 <td><img src="https://github.com/Jesus132/FullsatackPatron/blob/master/tabla.jpg"</th>
